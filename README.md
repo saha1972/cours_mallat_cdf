@@ -16,6 +16,7 @@ Un certain nombre de nb de 2024 sont dans le thème de cette année. Voici les n
 - `JAX_blob_GAN_vanilla.ipynb`: Mise en oeuvre d'un GAN simple et loss min-max (vanilla) pour générer une muli-gaussian 2D distribution. Selon le nombre de "blobs" le modele peut avoir des problèmes (mode collapses).
 - `JAX_blob_GAN_Wasserstein_regul.ipynb`: (JAX) une implementation d'un GAN avec la fonction de coût de Wasserstein et une façon d'imposer le caractère Lipschitz du "critic" via une contrainte sur les gradients.
 - `JAX_FLAX_NNX_blog_yang_song.ipynb`: (JAX) exemple d'un modele score-diffusion pour générer un muli-gaussian 2D distribution. C'est une version simple et mise à du jour d'une méthode de Y. Song où le debruiteur est conditionné par le bruit dépendant du temps.
+- `JAX_FLAX_NNX_UniversalDen_MNIST_jaxjit.ipynb`: (JAX)  exemple d'un modele score-diffusion pour générer des exemples de digits à la MNIST. L'algorithme différe de celui de Y. Song utilisé ci-dessus, car il utilise un debruiteur universel qui ne connait pas l'intensité du bruit ajouté. Il s'agit d'un algorithme de Z. Kadkhodaie & E. P. Simoncelli.
 
 # Année 2024:
 Un certain nombre de nb de 2023 sont dans le thème de cette année comme `Monte_Carlo_Sampling.ipynb` et `Monte_Carlo_Sampling_2.ipynb` traitent
