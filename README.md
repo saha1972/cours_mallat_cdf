@@ -21,6 +21,9 @@ Un certain nombre de nb de 2024 sont dans le thème de cette année. Voici les n
 - `WienerFilter_transitoires.ipynb`:  exemple de l'usage du filtrage de Wiener pour un signal avec des transitoires et bruit blanc (1D)
 - `Wavelet_transitoires.ipynb`: exemple d'usage de la transformée en ondelettes discréte pour débruiter un signal transitoire 1D
 - `Wavelet_stationnary_transitoires.ipynb`: même signal traité avec la transformée en ondelettes discréte stationnaire.
+- `Wavelet_image.ipynb`: débruitage d'une image par transformée en Ondelettes
+- `Wavelet_stationnary_image.ipynb`: meême image débruitée par transformée en Ondelettes stationnaire.
+
 
 # Année 2024:
 Un certain nombre de nb de 2023 sont dans le thème de cette année comme `Monte_Carlo_Sampling.ipynb` et `Monte_Carlo_Sampling_2.ipynb` traitent
