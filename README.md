@@ -1,5 +1,16 @@
 En 2022, afin d'illustrer le cours de [Stéphane Mallat du Collège de France](https://www.di.ens.fr/~mallat/CoursCollege.html) j'ai mis sur pieds ce petit repository que vous pouvez cloner/forker et me faire des retours.
 
+Voici la thématique des cours des différentes années:
+
+    2025: Génération de données en IA par transport et débruitage
+    2024: Apprentissage et génération par échantillonnage aléatoire
+    2023: Modélisation, Information et Physique Statistique
+    2022: Théorie de l’Information
+    2021 : Représentations parcimonieuses
+    2020 : Modèles multi-échelles et réseaux de neurones convolutifs
+    2019 : L’apprentissage par réseaux de neurones profonds
+    2018 : L’apprentissage face à la malédiction de la grande dimension
+
 Le directory "**Notes**" contient les PDFs des notes de cours depuis l'année 2018 incluse.
 **Since 2023, this directory includes an english version of all the lectures since 2018.**
 
