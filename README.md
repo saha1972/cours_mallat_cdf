@@ -1,18 +1,43 @@
+*------ English version -------*
+
+# Stéphane Mallat's Courses (Collège de France)
+
+In 2022, to illustrate the course of [Stéphane Mallat at Collège de France](https://www.di.ens.fr/~mallat/CoursCollege.html), I created this small repository that you can clone/fork and share feedback on.
+
+**The 2025 CNRS Gold Medal has been awarded to Professor Stéphane Mallat** for his internationally recognized contributions  
+([see the CNRS announcement](https://www.cnrs.fr/fr/personne/stephane-mallat-0)).
+
+## Course Topics by Year
+
+- **2025**: Data Generation in AI through Transport and Denoising  
+- **2024**: Learning and Generation via Random Sampling  
+- **2023**: Modeling, Information, and Statistical Physics  
+- **2022**: Information Theory  
+- **2021**: Sparse Representations  
+- **2020**: Multi-scale Models and Convolutional Neural Networks  
+- **2019**: Learning with Deep Neural Networks  
+- **2018**: Learning and the Curse of Dimensionality
+
+The directory **Notes** includes an english (and french) version of all the lectures since 2018.
+
+*------ French version -------*
+
 En 2022, afin d'illustrer le cours de [Stéphane Mallat du Collège de France](https://www.di.ens.fr/~mallat/CoursCollege.html) j'ai mis sur pieds ce petit repository que vous pouvez cloner/forker et me faire des retours.
+
+**La médaille d'or du CNRS en 2025 est décernée au professeur Stéphane Mallat** pour l'ensemble de ses travaux mondialement reconnus ([voir le communiqué du CNRS](https://www.cnrs.fr/fr/personne/stephane-mallat-0)) 
 
 Voici la thématique des cours des différentes années:
 
-    2025: Génération de données en IA par transport et débruitage
-    2024: Apprentissage et génération par échantillonnage aléatoire
-    2023: Modélisation, Information et Physique Statistique
-    2022: Théorie de l’Information
-    2021 : Représentations parcimonieuses
-    2020 : Modèles multi-échelles et réseaux de neurones convolutifs
-    2019 : L’apprentissage par réseaux de neurones profonds
-    2018 : L’apprentissage face à la malédiction de la grande dimension
+- **2025**: Génération de données en IA par transport et débruitage
+- **2024**: Apprentissage et génération par échantillonnage aléatoire
+- **2023**: Modélisation, Information et Physique Statistique
+- **2022**: Théorie de l’Information
+- **2021**: Représentations parcimonieuses
+- **2020**: Modèles multi-échelles et réseaux de neurones convolutifs
+- **2019**: L’apprentissage par réseaux de neurones profonds
+- **2018**: L’apprentissage face à la malédiction de la grande dimension
 
-Le directory "**Notes**" contient les PDFs des notes de cours depuis l'année 2018 incluse.
-**Since 2023, this directory includes an english version of all the lectures since 2018.**
+Le directory "**Notes**" contient les PDFs des notes de cours depuis l'année 2018 incluse (francais/anglais).
 
 La plus part des nbs sont jouables sur Google Colab.
 
