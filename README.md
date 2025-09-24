@@ -2,7 +2,7 @@
 
 # Stéphane Mallat's Courses (Collège de France)
 
-In 2022, to illustrate the course of [Stéphane Mallat at Collège de France](https://www.di.ens.fr/~mallat/CoursCollege.html), I created this small repository that you can clone/fork and share feedback on.
+In 2022, to illustrate the course of [Stéphane Mallat at Collège de France](https://www.college-de-france.fr/fr/chaire/stephane-mallat-sciences-des-donnees-chaire-statutaire), I created this small repository that you can clone/fork and share feedback on.
 
 **The 2025 CNRS Gold Medal has been awarded to Professor Stéphane Mallat** for his internationally recognized contributions  
 ([see the CNRS announcement](https://www.cnrs.fr/fr/personne/stephane-mallat-0)).
@@ -22,7 +22,7 @@ The directory **Notes** includes an english (and french) version of all the lect
 
 *------ French version -------*
 
-En 2022, afin d'illustrer le cours de [Stéphane Mallat du Collège de France](https://www.di.ens.fr/~mallat/CoursCollege.html) j'ai mis sur pieds ce petit repository que vous pouvez cloner/forker et me faire des retours.
+En 2022, afin d'illustrer le cours de [Stéphane Mallat du Collège de France](https://www.college-de-france.fr/fr/chaire/stephane-mallat-sciences-des-donnees-chaire-statutaire) j'ai mis sur pieds ce petit repository que vous pouvez cloner/forker et me faire des retours.
 
 **La médaille d'or du CNRS en 2025 est décernée au professeur Stéphane Mallat** pour l'ensemble de ses travaux mondialement reconnus ([voir le communiqué du CNRS](https://www.cnrs.fr/fr/personne/stephane-mallat-0)) 
 
