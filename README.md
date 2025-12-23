@@ -59,7 +59,7 @@ The core of this research is to understand how to overcome the **curse of high d
 
 ### 2025: Transport and Denoising in AI
 *   **Theme:** Data generation as a probability transport problem.
-*   **Key Concepts:** **Optimal Transport** (Monge-Kantorovich) and **Normalizing Flows** (Glow).
+*   **Key Concepts:** **Optimal Transport**.
 *   **Denoising Optimality:** Proving that architectures like **U-Net** act as optimal denoisers that learn geometry-adaptive harmonic bases.
 
 
