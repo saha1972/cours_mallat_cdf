@@ -7,18 +7,62 @@ In 2022, to illustrate the course of [Stéphane Mallat at Collège de France](ht
 **The 2025 CNRS Gold Medal has been awarded to Professor Stéphane Mallat** for his internationally recognized contributions  
 ([see the CNRS announcement](https://www.cnrs.fr/fr/personne/stephane-mallat-0)).
 
-## Course Topics by Year
-
-- **2025**: Data Generation in AI through Transport and Denoising  
-- **2024**: Learning and Generation via Random Sampling  
-- **2023**: Modeling, Information, and Statistical Physics  
-- **2022**: Information Theory  
-- **2021**: Sparse Representations  
-- **2020**: Multi-scale Models and Convolutional Neural Networks  
-- **2019**: Learning with Deep Neural Networks  
-- **2018**: Learning and the Curse of Dimensionality
-
 The directory **Notes** includes an english (and french) version of all the lectures since 2018.
+
+
+# Mathematical Foundations of Data Science and Artificial Intelligence
+
+This repository contains detailed notes and summaries of the lecture series delivered by **Stéphane Mallat** at the **Collège de France** (Chaire de Sciences des Données). These notes explore the mathematical "why" behind the success of modern Machine Learning and Deep Learning, moving from classical signal processing to state-of-the-art generative AI.
+
+## Executive Summary
+
+The core of this research is to understand how to overcome the **curse of high dimensionality**. In high-dimensional spaces, data is sparse, making traditional interpolation impossible without strong **regularity assumptions**. The lectures demonstrate that successful models (from Wavelets to CNNs and Diffusion Models) succeed because they capture underlying **symmetries**, **multi-scale structures**, and **sparsity**.
+
+---
+
+## Chronological Overview (2018–2025)
+
+### 2018: The Curse of High Dimensionality
+*   **Theme:** Learning in the face of high-dimensional challenges.
+*   **Key Concepts:** Overfitting, Bias-Variance trade-off, and the necessity of **regularity** (Lipschitz).
+*   **Techniques:** Introduction to Harmonic Analysis (Fourier and Wavelet transforms) and kernel methods like **SVM**.
+
+### 2019: Deep Neural Networks – How and Why?
+*   **Theme:** Mathematical analysis of deep architectures.
+*   **Key Concepts:** The **Universal Approximation Theorem** and the role of **symmetries** (invariants) in "flattening" classification boundaries.
+*   **Optimization:** Backpropagation, Stochastic Gradient Descent (SGD), and non-convex landscapes.
+
+### 2020: Multiscale Models and CNNs
+*   **Theme:** Architectural organization of complexity.
+*   **Key Concepts:** **Scale separability** and the use of **Convolutional Neural Networks (CNNs)** to capture translation invariance.
+*   **Techniques:** Scattering Networks, which use fixed wavelet filters to prove stability against deformations.
+
+### 2021: Regularity, Approximation, and Sparsity (RAS)
+*   **Theme:** The **RAP/RAS Triangle**.
+*   **Key Concepts:** The interdependence between signal **Regularity**, low-dimensional **Approximation**, and **Sparse representations**.
+*   **Applications:** Non-linear approximations and image compression standards (JPEG, JPEG2000).
+
+### 2022: Information Theory
+*   **Theme:** Intrinsic information vs. parametric models.
+*   **Key Concepts:** **Fisher Information** (inference/likelihood) vs. **Shannon Entropy** (coding/compression).
+*   **Geometric Insight:** Data concentration in **typical sets**, which defines the minimum number of bits needed for encoding.
+
+### 2023: Statistical Physics and Modeling
+*   **Theme:** High-dimensional modeling through the lens of physics.
+*   **Key Concepts:** **Gibbs energy models**, maximum entropy principles, and **Markov fields**.
+*   **Advanced Topics:** Phase transitions, the Ising model, and the emergence of long-range correlations from local interactions.
+
+### 2024: Learning and Generation by Random Sampling
+*   **Theme:** Generative AI and modern sampling.
+*   **Key Concepts:** **Monte Carlo methods**, Langevin dynamics, and **Score Matching**.
+*   **Generative AI:** Introduction to **Score-Based Diffusion Models** (the math behind tools like GPT-4 and DALL-E).
+
+### 2025: Transport and Denoising in AI
+*   **Theme:** Data generation as a probability transport problem.
+*   **Key Concepts:** **Optimal Transport**.
+*   **Denoising Optimality:** Proving that architectures like **U-Net** act as optimal denoisers that learn geometry-adaptive harmonic bases.
+
+
 
 *------ French version -------*
 
